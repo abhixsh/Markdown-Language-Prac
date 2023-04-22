@@ -14,12 +14,12 @@
 _This text_ is Italic
 
 <!-- Strong -->
-**This text** is Italic
+**This text** is Bold
 
-__This text__ is Italic
+__This text__ is Bold
 
 <!-- Strikethrough -->
-~~This text~~ is Italic
+~~This text~~ is Strikethrough
 
 <!-- Horizontal Rule -->
 ---
@@ -56,7 +56,7 @@ ___
     1. Nested item 2
     1. Nested item 3
 
- <!-- Lnline Code Block -->
+ <!-- Inline Code Block -->
 
  <p> This is a paragraph </p>
 
